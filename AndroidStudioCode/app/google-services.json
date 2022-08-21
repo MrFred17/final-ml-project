@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148611378305",
+    "firebase_url": "https://image-labeling-88825-default-rtdb.firebaseio.com",
+    "project_id": "image-labeling-88825",
+    "storage_bucket": "image-labeling-88825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148611378305:android:994e5ac186cd65cd18b180",
+        "android_client_info": {
+          "package_name": "com.eshqol.imagepickefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148611378305-jmo6123hjn9avjfire8rkfue7fad9sgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJR9RF5Ihdrr36f0x_561Tpls18FMP5Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148611378305-jmo6123hjn9avjfire8rkfue7fad9sgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
