@@ -118,18 +118,7 @@ def result(data):
             print(e)
 
 
-admin = r"""{
-  "type": "service_account",
-  "project_id": "image-labeling-88825",
-  "private_key_id": "fff2d984dd73b8f260018ba1a6d6097af3a2ba87",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6wYJj9ZQNIamN\nJmZ6drf/5DhfEMLbsBGX66XT5xeH27s8NL1ECBSN7CpzKctOYMQ4Czk8aX/G5Gfg\nhG18A8IVl2Xt34JtrquOsfMXwmSjxw7RXnMCaU4wdlkB3lvVLVXzzqsUb7+FLwFM\nFgQjrJGG0BIyKoOo9SlBvy7tAamRtQwfw2QJ+voDywNLzg2b3bfs7BV076RJGkfl\nlH+KB6ql3f5X9iKcl9mO2BVxQS9OqwKpHMdwLhZqtqLaiY4K1V7Hr/922nNjVQkz\n9RHFZ8kHazy2EZtxG6B214TatlB0j0nnCBXXunpUy/evBZT/wmnzpkbf7tBjlLTz\nlyZhcbyBAgMBAAECggEABFgIHlo6ZB5VoCs6DfyQEHkn+hw6qWXyx5zfdx/jW9wv\nHBXS4yuCrYxoahh3EfdnGg+MPMRj1V1ywcKT2tIH9Se+L+Z5ohGLDFar31a0ODpW\nLHa5xeeNV7sHYKMMk9c7JZxRTrhqjpGXsTtVMrcXjbihUQ1VXk9mUOZYAxyoFjgg\n9xNdSGBxpwW43bDZoMIpVt6DmB7CiGMd4MwudQcZ3GkufFSgschUAGJt/0j036vM\nwGA8iHC3YkyyrMufIFMCAoRyE4Njd6S9SXhdrGGyOtf5EcFNUiBhAVi09Kf5H9/B\nQPNhVu0FZlfFNmX0hlng9VDpsuuSOUdbDb86OsQSewKBgQDdQPS/pvvB4Kymrtqb\nBLOS7574wtXhnTte62Sm6qWYNUAuNN9yCKFitKjJhPa77C7uRrqjqVvOdjohPR8H\nVXjj5Iovwvg040epiVJRwf2RXGaCWMpHW0IWdCbVdpqUXaxyNj9Fr3PniClLk8U4\nLbS4bj1kMv20GmlK7tQxxxR7FwKBgQDYFaPJHRLz6M2rUuBLOtbgFD/cvppb4pI8\nMa47sZERmSTi+ky4/ACk3vXNlgAjpI/QcL/ulUyafRLnunEsRXr9HpPUOLZaldl7\nLFwDOb+HQMew+j0k7GQwgZOy1CytaMPl4tMNrBYKXGPqYLR+bIoj1Quh2e6YYOLP\nD6tly3JkJwKBgQDY4b2IyLTsncJgOfKMFpW4qS8aBlMGL8xtBS3K+SSOCVT6dlW6\nQH+CdDkoITCDkceHRsnZeEBIKFhfEL0DwWMZcYOLwgDwRwKOS8/n2NMo1HyftU3D\nmM81l3IhuXtZiGFsK4TmWFCzWyOvtBCVOyh1yYpgWCOdkm44R9i1WsLWzQKBgHw+\nJQhT8TvRFcB2TIS09iutOPMBnNtMMOzvW9DyzgiiV3Uymb6bFvu1PvvQTZAw5Ifi\n7FiP+5WwaJhYuQ3NfWPgmvshCKiZFI0f+l/YammoM6lsmI+MZCcHuhbOrEmgvVKG\n0vc/hQS8Dq8Kn305h0wHCUMsfWWb/40y40gKbGFtAoGBAIf2vWDqErY2Q4SUno+1\nwM/UQZdY3aKHI83mJZJumY8T2L7p5pk6Iw+YwB+xz9Rf+uCrCTN2iaaynoBt+W4t\n3Rv3doq95/EGRAuCm+1H/u11nRzbrGEFcU/R3PCLmvAsgs/oag+J51F79ABvLXFV\nvAfPIh06ToiJJCLARa0hfcXk\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-nqidv@image-labeling-88825.iam.gserviceaccount.com",
-  "client_id": "107531603737998454444",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nqidv%40image-labeling-88825.iam.gserviceaccount.com"
-}"""
+admin = # hidden
 
 
 
