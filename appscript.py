@@ -124,7 +124,8 @@ admin = # hidden
 
 cred = credentials.Certificate(json.loads(admin))
 firebase_admin = firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://image-labeling-88825-default-rtdb.firebaseio.com/'})
+    'databaseURL': #hidden
+})
 
 ref = db.reference('message')
 ref1 = db.reference("output")
